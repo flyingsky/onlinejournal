@@ -12,3 +12,4 @@ Client supports html5, iphone/ipad and android.
 1.1 install nodejs
 1.2 nmp install express
 1.3 mongodb
+start it via command: mongod
